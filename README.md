@@ -2,10 +2,11 @@
 Repositorio usado para albergar los ejecutables de la aplicacion Teammates Data Plotter (https://github.com/CaJiFan/teammates-data-plotter)
 
 ## Ejecutables
-* [Windows](https://github.com/AIToala/teammates-data-plotter-executables/raw/main/Teammates%20Data%20Plotter.exe)
-* [Mac]()
+* [Windows]()
+* [Mac](https://drive.google.com/drive/folders/1-WF-YpEa9IBF0NYbqKu0FkSskHrQNVLO?usp=sharing)
 
 ## Instrucciones
-* Al descargar el ejecutable, simplemente ejecute <b>Teammates Data Plotter.exe</b> para empezar a usar la aplicacion.
+* Al descargar el ejecutable, simplemente descomprima el archivo .zip en cualquier fichero de su eleccion.
+* Finalmente, ejecute <b>Teammates Data Plotter.exe</b> para empezar a usar la aplicacion.
 
-Ante cualquier error que sea detectado, reportarlo como un Issue dentro de github adjuntando el archivo Teammates.db encontrado dentro de fichero AppData\Local\Temp\_MEI13962 en Windows.
+Ante cualquier error que sea detectado, reportarlo como un Issue dentro de github adjuntando el archivo Teammates.db si es posible.
